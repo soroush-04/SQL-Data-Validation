@@ -66,6 +66,44 @@ WHERE question_id = 12563
   AND response != 'A'
   AND score = 1.0;
 
+-- check unique scores 
+-- we get 0.0, 1.0, 2.0, -1.0
+SELECT DISTINCT score
+from task1
+WHERE question_id = 12563 ;
+
+-- check score 2.0
+SELECT * 
+FROM task1 
+WHERE question_id = 12563 
+  AND score = 2.0;
+
+-- update score 2.0 variables to score 0.0
+UPDATE task1
+SET score = 0.0
+WHERE question_id = 12563
+  AND score = 2.0;
+
+-- double check
+SELECT DISTINCT score
+FROM task1
+WHERE question_id = 12563;
+
+-- we solved score 2.0 issue
+-- now let's solve score -1.0 issue
+
+SELECT *
+FROM task1
+WHERE question_id = 12563
+  AND score = -1.0;
+
+-- update score -1.0 variables to score 0.0
+UPDATE task1
+SET score = 0.0
+WHERE question_id = 12563
+  AND score = -1.0;
+
+-- now it's all fixed for question_id = 12563
 
 
 -----------------------------------------
@@ -162,13 +200,50 @@ FROM task1
 WHERE question_id = 12595
 AND score = 0.666667;
 
-
+-- now it's all fixed for question_id = 12595
 
 -----------------------------------------
 -- question 17404
 SELECT *
 FROM task1
-WHERE question_id = 17404;
+WHERE question_id = 17404 
+  AND score=2.0
+  AND response = '1=>(EMPTY), 1=>2, 2=>(EMPTY), 2=>5, 3=>3, 3=>1, 4=>4, 5=>(EMPTY), 6=>6';
+-- correct response with 2.0 score is: 
+-- 1=>(EMPTY), 1=>2, 2=>(EMPTY), 2=>5, 3=>3, 3=>1, 4=>4, 5=>(EMPTY), 6=>6	
+
+-- let's detect error
+SELECT t1.*
+FROM task1 t1
+WHERE t1.question_id = 17404 
+  AND t1.score = 2.0
+  AND t1.response = '1=>(EMPTY), 1=>2, 2=>(EMPTY), 2=>5, 3=>3, 3=>1, 4=>4, 5=>(EMPTY), 6=>6'
+  AND (
+    SELECT COUNT(*)
+    FROM task1 t2
+    WHERE t2.question_id = 17404
+      AND t2.response = '1=>(EMPTY), 1=>2, 2=>(EMPTY), 2=>5, 3=>3, 3=>1, 4=>4, 5=>(EMPTY), 6=>6'
+      AND t2.score = 2.0
+  ) = 0;
+
+-- check if response is correct but score is not 2.0
+SELECT *
+FROM task1
+WHERE question_id = 17404 
+  AND response != '1=>(EMPTY), 1=>2, 2=>(EMPTY), 2=>5, 3=>3, 3=>1, 4=>4, 5=>(EMPTY), 6=>6'
+  AND score = 2.0;
+  -- no error
+
+/*
+  we get these uni
+*/
+SELECT DISTINCT score
+from task1
+WHERE question_id = 12563 ;
+
+
+
+
 
 SELECT DISTINCT score
 FROM task1
