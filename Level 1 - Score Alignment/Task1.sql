@@ -8,6 +8,9 @@ select sqr.taqr_id, sqr.response, sqr.score
 from task1 sqr 
 where sqr.question_id = 17404
 
+-- table info and data types
+PRAGMA table_info(task1);
+
 
 -- identify unique question_id in the 'task1' table
 /* 
@@ -22,27 +25,50 @@ FROM task1;
 
 -- investigate each question response/score seperately
 
+
+-----------------------------------------
+-- question 12563
 SELECT *
 FROM task1
 WHERE question_id = 12563;
-
--- question 12563
 
 SELECT *
 FROM task1
 WHERE question_id = 12563
   AND response = 'A'
-  AND score <> 1;
--- scores are accurate. all 'A' responses got 1 score.
+  AND score != 1.0;
+-- there is only 1 inaccurate row for this situation.
+
+-- Update the inaccurate row
+UPDATE task1
+SET score = 1.0
+WHERE question_id = 12563
+  AND response = 'A'
+  AND score != 1.0;
+
 
 SELECT *
 FROM task1
 WHERE question_id = 12563
-  AND response <> 'A'
-  AND score <> 0;
--- scores are accurate. all the not 'A' responses got 0 score.
+  AND response != 'A'
+  AND score = 1.0;
+-- there are some errors in this scenarios
+
+-- taqr_id = 27171090 has response "A;A" which needs to be "A"
+UPDATE task1
+SET response = 'A'
+WHERE taqr_id = 27171090;
+
+-- correct rows which not 'A' response but got 1.0 score
+UPDATE task1
+SET response = 'A'
+WHERE question_id = 12563
+  AND response != 'A'
+  AND score = 1.0;
 
 
+
+-----------------------------------------
 -- question 12595
 SELECT *
 FROM task1
