@@ -78,8 +78,6 @@ WHERE question_id = 12595
 
 
 
-
-
 SELECT *
 FROM task1
 WHERE question_id = 17404;
