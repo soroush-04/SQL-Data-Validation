@@ -170,17 +170,34 @@ SELECT *
 FROM task1
 WHERE question_id = 17404;
 
+SELECT DISTINCT score
+FROM task1
+WHERE question_id = 17404;
+
+
+-----------------------------------------
+-- question 17495
 SELECT *
 FROM task1
 WHERE question_id = 17495;
 
--- taqr_id check: 
--- there is no duplicate taqr_id in the table
-SELECT taqr_id, COUNT(taqr_id) AS count
+SELECT DISTINCT score
 FROM task1
-GROUP BY taqr_id
-HAVING count > 1;
+WHERE question_id = 17495;
 
+SELECT *
+FROM task1
+WHERE question_id = 17495
+AND score = 2.0;
 
+SELECT *
+FROM task1
+WHERE question_id = 17495
+AND score = 0.0;
 
+SELECT *
+FROM task1
+WHERE question_id = 17495
+  AND response != '1=>1, 1=>5, 2=>2, 2=>1, 3=>3, 3=>1, 4=>4, 4=>6, 5=>5, 6=>6'
+  AND score = 0.0;
 
