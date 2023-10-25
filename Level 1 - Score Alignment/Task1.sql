@@ -234,16 +234,6 @@ WHERE question_id = 17404
   AND score = 2.0;
   -- no error
 
-/*
-  we get these uni
-*/
-SELECT DISTINCT score
-from task1
-WHERE question_id = 12563 ;
-
-
-
-
 
 SELECT DISTINCT score
 FROM task1
@@ -264,6 +254,8 @@ SELECT *
 FROM task1
 WHERE question_id = 17495
 AND score = 2.0;
+-- so correct response is:
+-- 1=>1, 1=>5, 2=>2, 2=>1, 3=>3, 3=>1, 4=>4, 4=>6, 5=>5, 6=>6	
 
 SELECT *
 FROM task1
@@ -276,3 +268,4 @@ WHERE question_id = 17495
   AND response != '1=>1, 1=>5, 2=>2, 2=>1, 3=>3, 3=>1, 4=>4, 4=>6, 5=>5, 6=>6'
   AND score = 0.0;
 
+-- it seems like we don't have enought information for database to evaluate the score and response appropriately
