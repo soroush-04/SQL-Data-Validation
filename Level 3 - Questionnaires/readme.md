@@ -1,6 +1,6 @@
 Identify anomalies between Questions 15 and Question 17.
 
-``` sql
+<!-- ``` sql
 select * 
 from 20220813_tw_40.QuestionnaireQuestions qq
 ;
@@ -11,4 +11,5 @@ join 20220813_tw_40.QuestionnaireQuestions qq
 	on sqr.question_id  = qq.id 
 limit 1000000
 ; 
-```
+``` -->
+
