@@ -1,0 +1,1710 @@
+"scope_group_id","id","test_design_version_id","label","lang","question_text","sub_question_text","response_id","response_type","test_window_id"
+37,16961,1772,Question 1,en,"**Question 1**
+
+How often do you have access to each of the following?
+
+","
+a. I have access to the Internet at home to complete my school work.",i16961.e11.r0,select_table,40
+37,16961,1772,Question 1,en,"**Question 1**
+
+How often do you have access to each of the following?
+
+","
+b. I have access to a computer at home.",i16961.e11.r1,select_table,40
+37,16961,1772,Question 1,en,"**Question 1**
+
+How often do you have access to each of the following?
+
+","
+c. I have access to a tablet (for example, an iPad) at home.",i16961.e11.r2,select_table,40
+37,16961,1772,Question 1,en,"**Question 1**
+
+How often do you have access to each of the following?
+
+","
+d. I have access to a smartphone at home.",i16961.e11.r3,select_table,40
+37,16961,1772,Question 1,fr,"**Question 1**
+
+À quelle fréquence as-tu accès à chacun des suivants?
+
+","
+a. J’ai accès à l'Internet à la maison pour faire mes devoirs.",i16961.e22.r0,select_table,40
+37,16961,1772,Question 1,fr,"**Question 1**
+
+À quelle fréquence as-tu accès à chacun des suivants?
+
+","
+b. J’ai accès à un ordinateur à la maison.",i16961.e22.r1,select_table,40
+37,16961,1772,Question 1,fr,"**Question 1**
+
+À quelle fréquence as-tu accès à chacun des suivants?
+
+","
+c. J’ai accès à une tablette (p. ex. un iPad) à la maison.",i16961.e22.r2,select_table,40
+37,16961,1772,Question 1,fr,"**Question 1**
+
+À quelle fréquence as-tu accès à chacun des suivants?
+
+","
+d. J’ai accès à un téléphone intelligent à la maison.",i16961.e22.r3,select_table,40
+37,16962,1772,Question 2,en,"**Question 2**
+
+Do you agree with each of the following?
+
+","
+a. I know how to use computers and other devices (including laptops, tablets, smartphones).",i16962.e11.r0,select_table,40
+37,16962,1772,Question 2,en,"**Question 2**
+
+Do you agree with each of the following?
+
+","
+b. I know how to find information online.",i16962.e11.r1,select_table,40
+37,16962,1772,Question 2,en,"**Question 2**
+
+Do you agree with each of the following?
+
+","
+c. Using the Internet is part of my daily routine.",i16962.e11.r2,select_table,40
+37,16962,1772,Question 2,en,"**Question 2**
+
+Do you agree with each of the following?
+
+","
+d. I use technology to learn new things.",i16962.e11.r3,select_table,40
+37,16962,1772,Question 2,en,"**Question 2**
+
+Do you agree with each of the following?
+
+","
+e. I am comfortable using a computer to complete my school work.",i16962.e11.r4,select_table,40
+37,16962,1772,Question 2,fr,"**Question 2**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Je sais comment utiliser les ordinateurs et autres appareils (y compris les ordinateurs portables, les tablettes et les téléphones intelligents).",i16962.e28.r0,select_table,40
+37,16962,1772,Question 2,fr,"**Question 2**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Je sais comment trouver des informations en ligne.",i16962.e28.r1,select_table,40
+37,16962,1772,Question 2,fr,"**Question 2**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. J’utilise l’Internet tous les jours.",i16962.e28.r2,select_table,40
+37,16962,1772,Question 2,fr,"**Question 2**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. J’utilise la technologie pour apprendre de nouvelles choses.",i16962.e28.r3,select_table,40
+37,16962,1772,Question 2,fr,"**Question 2**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+e. Je suis à l’aise d’utiliser un ordinateur pour faire mes devoirs.",i16962.e28.r4,select_table,40
+37,16963,1772,Question 3,en,"**Question 3**
+
+Do you agree with each of the following?
+
+","
+a. I feel I have good relationships with other students at my school.",i16963.e11.r0,select_table,40
+37,16963,1772,Question 3,en,"**Question 3**
+
+Do you agree with each of the following?
+
+","
+b. I feel I have good relationships with the teachers at my school.",i16963.e11.r1,select_table,40
+37,16963,1772,Question 3,en,"**Question 3**
+
+Do you agree with each of the following?
+
+","
+c. I feel I belong at school. ",i16963.e11.r2,select_table,40
+37,16963,1772,Question 3,en,"**Question 3**
+
+Do you agree with each of the following?
+
+","
+d. I have at least one teacher or adult at school I can talk to if I have a problem. ",i16963.e11.r3,select_table,40
+37,16963,1772,Question 3,fr,"**Question 3**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Je sens que j’ai de bonnes relations avec les autres élèves de mon école.",i16963.e28.r0,select_table,40
+37,16963,1772,Question 3,fr,"**Question 3**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Je sens que j’ai de bonnes relations avec les enseignantes et enseignants de mon école.",i16963.e28.r1,select_table,40
+37,16963,1772,Question 3,fr,"**Question 3**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Je me sens à ma place à l’école.",i16963.e28.r2,select_table,40
+37,16963,1772,Question 3,fr,"**Question 3**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. J’ai au moins une enseignante ou un enseignant ou un adulte à l’école à qui je peux parler si j’ai un problème.",i16963.e28.r3,select_table,40
+37,16964,1772,Question 4,en,"**Question 4**
+
+Please think about how you feel when you are in school. Do you agree with each of the following?
+
+","
+a. Every student at my school is treated fairly.",i16964.e11.r0,select_table,40
+37,16964,1772,Question 4,en,"**Question 4**
+
+Please think about how you feel when you are in school. Do you agree with each of the following?
+
+","
+b. The words used in my classes make every student feel included.",i16964.e11.r1,select_table,40
+37,16964,1772,Question 4,en,"**Question 4**
+
+Please think about how you feel when you are in school. Do you agree with each of the following?
+
+","
+c. My culture is included in the materials (for example, books, posters and pictures) used in my class. ",i16964.e11.r2,select_table,40
+37,16964,1772,Question 4,en,"**Question 4**
+
+Please think about how you feel when you are in school. Do you agree with each of the following?
+
+","
+d. The teachers at my school pay attention to the opinions of every student.",i16964.e11.r3,select_table,40
+37,16964,1772,Question 4,fr,"**Question 4**
+
+Pense à comment tu te sens quand tu es à l’école. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Chaque élève de mon école est traité équitablement.",i16964.e28.r0,select_table,40
+37,16964,1772,Question 4,fr,"**Question 4**
+
+Pense à comment tu te sens quand tu es à l’école. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Les mots utilisés dans mes cours font que chaque élève se sent inclus.",i16964.e28.r1,select_table,40
+37,16964,1772,Question 4,fr,"**Question 4**
+
+Pense à comment tu te sens quand tu es à l’école. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Ma culture figure dans le matériel (p. ex. livres, affiches, images) utilisé dans ma classe.",i16964.e28.r2,select_table,40
+37,16964,1772,Question 4,fr,"**Question 4**
+
+Pense à comment tu te sens quand tu es à l’école. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. Les enseignantes et enseignants de mon école prêtent attention à l'opinion de chaque élève.",i16964.e28.r3,select_table,40
+37,16965,1772,Question 5,en,"**Question 5**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+a. I like math.",i16965.e11.r0,select_table,40
+37,16965,1772,Question 5,en,"**Question 5**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+b. Math is one of my favourite subjects.",i16965.e11.r1,select_table,40
+37,16965,1772,Question 5,en,"**Question 5**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+c. I enjoy solving math problems.",i16965.e11.r2,select_table,40
+37,16965,1772,Question 5,en,"**Question 5**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+d. I learn math only when I have to.",i16965.e11.r3,select_table,40
+37,16965,1772,Question 5,en,"**Question 5**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+e. Being good at math is important to me.",i16965.e11.r4,select_table,40
+37,16965,1772,Question 5,fr,"**Question 5**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. J’aime les mathématiques.",i16965.e28.r0,select_table,40
+37,16965,1772,Question 5,fr,"**Question 5**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Les mathématiques sont l’une de mes matières préférées.",i16965.e28.r1,select_table,40
+37,16965,1772,Question 5,fr,"**Question 5**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. J’aime résoudre les problèmes de mathématiques.",i16965.e28.r2,select_table,40
+37,16965,1772,Question 5,fr,"**Question 5**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. Je n’apprends les mathématiques que quand je dois le faire.",i16965.e28.r3,select_table,40
+37,16965,1772,Question 5,fr,"**Question 5**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+e. Être bonne ou bon en mathématiques est important pour moi.",i16965.e28.r4,select_table,40
+37,16966,1772,Question 6,en,"**Question 6**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+a. I like to read.",i16966.e11.r0,select_table,40
+37,16966,1772,Question 6,en,"**Question 6**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+b. I read only when I have to.",i16966.e11.r1,select_table,40
+37,16966,1772,Question 6,en,"**Question 6**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+c. For me, reading is a waste of time.",i16966.e11.r2,select_table,40
+37,16966,1772,Question 6,en,"**Question 6**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+d. Being a good reader is important to me.",i16966.e11.r3,select_table,40
+37,16966,1772,Question 6,fr,"**Question 6**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. J’aime lire.",i16966.e28.r0,select_table,40
+37,16966,1772,Question 6,fr,"**Question 6**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Je ne lis que quand je dois le faire.",i16966.e28.r1,select_table,40
+37,16966,1772,Question 6,fr,"**Question 6**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Pour moi, la lecture est une perte de temps.",i16966.e28.r2,select_table,40
+37,16966,1772,Question 6,fr,"**Question 6**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. Être une bonne lectrice ou un bon lecteur est important pour moi.",i16966.e28.r3,select_table,40
+37,16967,1772,Question 7,en,"**Question 7**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+a. I like to write.",i16967.e11.r0,select_table,40
+37,16967,1772,Question 7,en,"**Question 7**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+b. I write only when I have to.",i16967.e11.r1,select_table,40
+37,16967,1772,Question 7,en,"**Question 7**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+c. For me, writing is a waste of time.",i16967.e11.r2,select_table,40
+37,16967,1772,Question 7,en,"**Question 7**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+d. Being a good writer is important to me.",i16967.e11.r3,select_table,40
+37,16967,1772,Question 7,fr,"**Question 7**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. J’aime écrire.",i16967.e28.r0,select_table,40
+37,16967,1772,Question 7,fr,"**Question 7**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Je n’écris que quand je dois le faire.",i16967.e28.r1,select_table,40
+37,16967,1772,Question 7,fr,"**Question 7**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Pour moi, l’écriture est une perte de temps.",i16967.e28.r2,select_table,40
+37,16967,1772,Question 7,fr,"**Question 7**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. Être bonne ou bon en écriture est important pour moi.",i16967.e28.r3,select_table,40
+37,16968,1772,Question 8,en,"**Question 8**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+a. I am good at math.",i16968.e11.r0,select_table,40
+37,16968,1772,Question 8,en,"**Question 8**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+b. I can answer difficult math questions.",i16968.e11.r1,select_table,40
+37,16968,1772,Question 8,en,"**Question 8**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+c. I understand most of the math I am taught.",i16968.e11.r2,select_table,40
+37,16968,1772,Question 8,en,"**Question 8**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+d. Math is an easy subject.",i16968.e11.r3,select_table,40
+37,16968,1772,Question 8,fr,"**Question 8**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Je suis bonne ou bon en mathématiques.",i16968.e28.r0,select_table,40
+37,16968,1772,Question 8,fr,"**Question 8**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Je peux répondre à des questions de mathématiques difficiles.",i16968.e28.r1,select_table,40
+37,16968,1772,Question 8,fr,"**Question 8**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Je comprends la plupart des mathématiques qu’on m’enseigne.",i16968.e28.r2,select_table,40
+37,16968,1772,Question 8,fr,"**Question 8**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. Les mathématiques sont une matière facile.",i16968.e28.r3,select_table,40
+37,16969,1772,Question 9,en,"**Question 9**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+a. I am a good reader.",i16969.e11.r0,select_table,40
+37,16969,1772,Question 9,en,"**Question 9**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+b. I can understand difficult texts.",i16969.e11.r1,select_table,40
+37,16969,1772,Question 9,en,"**Question 9**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+c. I can read easily.",i16969.e11.r2,select_table,40
+37,16969,1772,Question 9,en,"**Question 9**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+d. I have difficulty with reading.",i16969.e11.r3,select_table,40
+37,16969,1772,Question 9,fr,"**Question 9**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Je suis une bonne lectrice ou un bon lecteur.",i16969.e28.r0,select_table,40
+37,16969,1772,Question 9,fr,"**Question 9**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Je peux comprendre des textes difficiles.",i16969.e28.r1,select_table,40
+37,16969,1772,Question 9,fr,"**Question 9**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Je peux lire facilement.",i16969.e28.r2,select_table,40
+37,16969,1772,Question 9,fr,"**Question 9**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. J’ai de la difficulté à lire.",i16969.e28.r3,select_table,40
+37,16970,1772,Question 10,en,"**Question 10**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+a. I am a good writer.",i16970.e11.r0,select_table,40
+37,16970,1772,Question 10,en,"**Question 10**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+b. I can communicate difficult ideas in writing.",i16970.e11.r1,select_table,40
+37,16970,1772,Question 10,en,"**Question 10**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+c. I can write easily.",i16970.e11.r2,select_table,40
+37,16970,1772,Question 10,en,"**Question 10**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+d. I have difficulty with writing.",i16970.e11.r3,select_table,40
+37,16970,1772,Question 10,fr,"**Question 10**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Je suis bonne ou bon en écriture.",i16970.e28.r0,select_table,40
+37,16970,1772,Question 10,fr,"**Question 10**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Je peux communiquer des idées difficiles par écrit.",i16970.e28.r1,select_table,40
+37,16970,1772,Question 10,fr,"**Question 10**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Je peux écrire facilement.",i16970.e28.r2,select_table,40
+37,16970,1772,Question 10,fr,"**Question 10**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. J’ai de la difficulté à écrire.",i16970.e28.r3,select_table,40
+37,17798,1695,Question 1,en,"Question
+continue with question
+
+Question 2","Question
+question 2",i17798.e25.r0,select_table,40
+37,17798,1695,Question 1,en,"Question
+continue with question
+
+Question 2","
+",i17798.e25.r1,select_table,40
+37,17798,1695,Question 1,en,"Question
+continue with question
+
+Question 2","
+",i17798.e25.r2,select_table,40
+37,17799,1695,Question 1,en,"**Question 1**
+
+How often do you have access to each of the following?
+
+","
+a. I have access to the Internet at home to complete my school work.",i17799.e11.r0,select_table,40
+37,17799,1695,Question 1,en,"**Question 1**
+
+How often do you have access to each of the following?
+
+","
+b. I have access to a computer at home.",i17799.e11.r1,select_table,40
+37,17799,1695,Question 1,en,"**Question 1**
+
+How often do you have access to each of the following?
+
+","
+c. I have access to a tablet (for example, an iPad) at home.",i17799.e11.r2,select_table,40
+37,17799,1695,Question 1,en,"**Question 1**
+
+How often do you have access to each of the following?
+
+","
+d. I have access to a smartphone at home.",i17799.e11.r3,select_table,40
+37,17799,1695,Question 1,fr,"**Question 1**
+
+À quelle fréquence as-tu accès à chacun des suivants?
+
+","
+a. J’ai accès à l'Internet à la maison pour faire mes devoirs.",i17799.e22.r0,select_table,40
+37,17799,1695,Question 1,fr,"**Question 1**
+
+À quelle fréquence as-tu accès à chacun des suivants?
+
+","
+b. J’ai accès à un ordinateur à la maison.",i17799.e22.r1,select_table,40
+37,17799,1695,Question 1,fr,"**Question 1**
+
+À quelle fréquence as-tu accès à chacun des suivants?
+
+","
+c. J’ai accès à une tablette (p. ex. un iPad) à la maison.",i17799.e22.r2,select_table,40
+37,17799,1695,Question 1,fr,"**Question 1**
+
+À quelle fréquence as-tu accès à chacun des suivants?
+
+","
+d. J’ai accès à un téléphone intelligent à la maison.",i17799.e22.r3,select_table,40
+37,17800,1695,Question 3,en,"**Question 3**
+
+Do you agree with each of the following?
+
+","
+a. I feel I have good relationships with other students at my school.",i17800.e11.r0,select_table,40
+37,17800,1695,Question 3,en,"**Question 3**
+
+Do you agree with each of the following?
+
+","
+b. I feel I have good relationships with the teachers at my school.",i17800.e11.r1,select_table,40
+37,17800,1695,Question 3,en,"**Question 3**
+
+Do you agree with each of the following?
+
+","
+c. I feel I belong at school. ",i17800.e11.r2,select_table,40
+37,17800,1695,Question 3,en,"**Question 3**
+
+Do you agree with each of the following?
+
+","
+d. I have at least one teacher or adult at school I can talk to if I have a problem. ",i17800.e11.r3,select_table,40
+37,17800,1695,Question 3,fr,"**Question 3**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Je sens que j’ai de bonnes relations avec les autres élèves de mon école.",i17800.e28.r0,select_table,40
+37,17800,1695,Question 3,fr,"**Question 3**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Je sens que j’ai de bonnes relations avec les enseignantes et enseignants de mon école.",i17800.e28.r1,select_table,40
+37,17800,1695,Question 3,fr,"**Question 3**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Je me sens à ma place à l’école.",i17800.e28.r2,select_table,40
+37,17800,1695,Question 3,fr,"**Question 3**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. J’ai au moins une enseignante ou un enseignant ou un adulte à l’école à qui je peux parler si j’ai un problème.",i17800.e28.r3,select_table,40
+37,18695,1695,Question 2,en,"**Question 2**
+
+Do you agree with each of the following?
+
+","
+a. I know how to use computers and other devices (including laptops, tablets, smartphones).",i18695.e11.r0,select_table,40
+37,18695,1695,Question 2,en,"**Question 2**
+
+Do you agree with each of the following?
+
+","
+b. I know how to find information online.",i18695.e11.r1,select_table,40
+37,18695,1695,Question 2,en,"**Question 2**
+
+Do you agree with each of the following?
+
+","
+c. Using the Internet is part of my daily routine.",i18695.e11.r2,select_table,40
+37,18695,1695,Question 2,en,"**Question 2**
+
+Do you agree with each of the following?
+
+","
+d. I use technology to learn new things.",i18695.e11.r3,select_table,40
+37,18695,1695,Question 2,en,"**Question 2**
+
+Do you agree with each of the following?
+
+","
+e. I am comfortable using a computer to complete my school work.",i18695.e11.r4,select_table,40
+37,18695,1695,Question 2,fr,"**Question 2**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Je sais comment utiliser les ordinateurs et autres appareils (y compris les ordinateurs portables, les tablettes et les téléphones intelligents).",i18695.e28.r0,select_table,40
+37,18695,1695,Question 2,fr,"**Question 2**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Je sais comment trouver des informations en ligne.",i18695.e28.r1,select_table,40
+37,18695,1695,Question 2,fr,"**Question 2**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. J’utilise l’Internet tous les jours.",i18695.e28.r2,select_table,40
+37,18695,1695,Question 2,fr,"**Question 2**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. J’utilise la technologie pour apprendre de nouvelles choses.",i18695.e28.r3,select_table,40
+37,18695,1695,Question 2,fr,"**Question 2**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+e. Je suis à l’aise d’utiliser un ordinateur pour faire mes devoirs.",i18695.e28.r4,select_table,40
+37,18697,1695,Question 4,en,"**Question 4**
+
+Please think about how you feel when you are in school. Do you agree with each of the following?
+
+","
+a. Every student at my school is treated fairly.",i18697.e11.r0,select_table,40
+37,18697,1695,Question 4,en,"**Question 4**
+
+Please think about how you feel when you are in school. Do you agree with each of the following?
+
+","
+b. The words used in my classes make every student feel included.",i18697.e11.r1,select_table,40
+37,18697,1695,Question 4,en,"**Question 4**
+
+Please think about how you feel when you are in school. Do you agree with each of the following?
+
+","
+c. My culture is included in the materials (for example, books, posters and pictures) used in my class. ",i18697.e11.r2,select_table,40
+37,18697,1695,Question 4,en,"**Question 4**
+
+Please think about how you feel when you are in school. Do you agree with each of the following?
+
+","
+d. The teachers at my school pay attention to the opinions of every student.",i18697.e11.r3,select_table,40
+37,18697,1695,Question 4,fr,"**Question 4**
+
+Pense à comment tu te sens quand tu es à l’école. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Chaque élève de mon école est traité équitablement.",i18697.e28.r0,select_table,40
+37,18697,1695,Question 4,fr,"**Question 4**
+
+Pense à comment tu te sens quand tu es à l’école. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Les mots utilisés dans mes cours font que chaque élève se sent inclus.",i18697.e28.r1,select_table,40
+37,18697,1695,Question 4,fr,"**Question 4**
+
+Pense à comment tu te sens quand tu es à l’école. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Ma culture figure dans le matériel (p. ex. livres, affiches, images) utilisé dans ma classe.",i18697.e28.r2,select_table,40
+37,18697,1695,Question 4,fr,"**Question 4**
+
+Pense à comment tu te sens quand tu es à l’école. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. Les enseignantes et enseignants de mon école prêtent attention à l'opinion de chaque élève.",i18697.e28.r3,select_table,40
+37,18698,1695,Question 5,en,"**Question 5**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+a. I like math.",i18698.e11.r0,select_table,40
+37,18698,1695,Question 5,en,"**Question 5**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+b. Math is one of my favourite subjects.",i18698.e11.r1,select_table,40
+37,18698,1695,Question 5,en,"**Question 5**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+c. I enjoy solving math problems.",i18698.e11.r2,select_table,40
+37,18698,1695,Question 5,en,"**Question 5**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+d. I learn math only when I have to.",i18698.e11.r3,select_table,40
+37,18698,1695,Question 5,en,"**Question 5**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+e. Being good at math is important to me.",i18698.e11.r4,select_table,40
+37,18698,1695,Question 5,fr,"**Question 5**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. J’aime les mathématiques.",i18698.e28.r0,select_table,40
+37,18698,1695,Question 5,fr,"**Question 5**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Les mathématiques sont l’une de mes matières préférées.",i18698.e28.r1,select_table,40
+37,18698,1695,Question 5,fr,"**Question 5**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. J’aime résoudre les problèmes de mathématiques.",i18698.e28.r2,select_table,40
+37,18698,1695,Question 5,fr,"**Question 5**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. Je n’apprends les mathématiques que quand je dois le faire.",i18698.e28.r3,select_table,40
+37,18698,1695,Question 5,fr,"**Question 5**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+e. Être bonne ou bon en mathématiques est important pour moi.",i18698.e28.r4,select_table,40
+37,18699,1695,Question 6,en,"**Question 6**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+a. I like to read.",i18699.e11.r0,select_table,40
+37,18699,1695,Question 6,en,"**Question 6**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+b. I read only when I have to.",i18699.e11.r1,select_table,40
+37,18699,1695,Question 6,en,"**Question 6**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+c. For me, reading is a waste of time.",i18699.e11.r2,select_table,40
+37,18699,1695,Question 6,en,"**Question 6**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+d. Being a good reader is important to me.",i18699.e11.r3,select_table,40
+37,18699,1695,Question 6,fr,"**Question 6**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. J’aime lire.",i18699.e28.r0,select_table,40
+37,18699,1695,Question 6,fr,"**Question 6**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Je ne lis que quand je dois le faire.",i18699.e28.r1,select_table,40
+37,18699,1695,Question 6,fr,"**Question 6**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Pour moi, la lecture est une perte de temps.",i18699.e28.r2,select_table,40
+37,18699,1695,Question 6,fr,"**Question 6**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. Être une bonne lectrice ou un bon lecteur est important pour moi.",i18699.e28.r3,select_table,40
+37,18700,1695,Question 7,en,"**Question 7**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+a. I like to write.",i18700.e11.r0,select_table,40
+37,18700,1695,Question 7,en,"**Question 7**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+b. I write only when I have to.",i18700.e11.r1,select_table,40
+37,18700,1695,Question 7,en,"**Question 7**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+c. For me, writing is a waste of time.",i18700.e11.r2,select_table,40
+37,18700,1695,Question 7,en,"**Question 7**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+d. Being a good writer is important to me.",i18700.e11.r3,select_table,40
+37,18700,1695,Question 7,fr,"**Question 7**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. J’aime écrire.",i18700.e28.r0,select_table,40
+37,18700,1695,Question 7,fr,"**Question 7**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Je n’écris que quand je dois le faire.",i18700.e28.r1,select_table,40
+37,18700,1695,Question 7,fr,"**Question 7**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Pour moi, l’écriture est une perte de temps.",i18700.e28.r2,select_table,40
+37,18700,1695,Question 7,fr,"**Question 7**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. Être bonne ou bon en écriture est important pour moi.",i18700.e28.r3,select_table,40
+37,18701,1695,Question 8,en,"**Question 8**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+a. I am good at math.",i18701.e11.r0,select_table,40
+37,18701,1695,Question 8,en,"**Question 8**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+b. I can answer difficult math questions.",i18701.e11.r1,select_table,40
+37,18701,1695,Question 8,en,"**Question 8**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+c. I understand most of the math I am taught.",i18701.e11.r2,select_table,40
+37,18701,1695,Question 8,en,"**Question 8**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+d. Math is an easy subject.",i18701.e11.r3,select_table,40
+37,18701,1695,Question 8,fr,"**Question 8**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Je suis bonne ou bon en mathématiques.",i18701.e28.r0,select_table,40
+37,18701,1695,Question 8,fr,"**Question 8**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Je peux répondre à des questions de mathématiques difficiles.",i18701.e28.r1,select_table,40
+37,18701,1695,Question 8,fr,"**Question 8**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Je comprends la plupart des mathématiques qu’on m’enseigne.",i18701.e28.r2,select_table,40
+37,18701,1695,Question 8,fr,"**Question 8**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. Les mathématiques sont une matière facile.",i18701.e28.r3,select_table,40
+37,18702,1695,Question 9,en,"**Question 9**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+a. I am a good reader.",i18702.e11.r0,select_table,40
+37,18702,1695,Question 9,en,"**Question 9**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+b. I can understand difficult texts.",i18702.e11.r1,select_table,40
+37,18702,1695,Question 9,en,"**Question 9**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+c. I can read easily.",i18702.e11.r2,select_table,40
+37,18702,1695,Question 9,en,"**Question 9**
+
+Please tell us how you feel about reading. Do you agree with each of the following?
+
+","
+d. I have difficulty with reading.",i18702.e11.r3,select_table,40
+37,18702,1695,Question 9,fr,"**Question 9**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Je suis une bonne lectrice ou un bon lecteur.",i18702.e28.r0,select_table,40
+37,18702,1695,Question 9,fr,"**Question 9**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Je peux comprendre des textes difficiles.",i18702.e28.r1,select_table,40
+37,18702,1695,Question 9,fr,"**Question 9**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Je peux lire facilement.",i18702.e28.r2,select_table,40
+37,18702,1695,Question 9,fr,"**Question 9**
+
+Dis-nous ce que tu penses de la lecture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. J’ai de la difficulté à lire.",i18702.e28.r3,select_table,40
+37,18703,1695,Question 10,en,"**Question 10**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+a. I am a good writer.",i18703.e11.r0,select_table,40
+37,18703,1695,Question 10,en,"**Question 10**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+b. I can communicate difficult ideas in writing.",i18703.e11.r1,select_table,40
+37,18703,1695,Question 10,en,"**Question 10**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+c. I can write easily.",i18703.e11.r2,select_table,40
+37,18703,1695,Question 10,en,"**Question 10**
+
+Please tell us how you feel about writing. Do you agree with each of the following?
+
+","
+d. I have difficulty with writing.",i18703.e11.r3,select_table,40
+37,18703,1695,Question 10,fr,"**Question 10**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Je suis bonne ou bon en écriture.",i18703.e28.r0,select_table,40
+37,18703,1695,Question 10,fr,"**Question 10**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Je peux communiquer des idées difficiles par écrit.",i18703.e28.r1,select_table,40
+37,18703,1695,Question 10,fr,"**Question 10**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Je peux écrire facilement.",i18703.e28.r2,select_table,40
+37,18703,1695,Question 10,fr,"**Question 10**
+
+Dis-nous ce que tu penses de l’écriture. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. J’ai de la difficulté à écrire.",i18703.e28.r3,select_table,40
+37,18704,1695,Question 11,en,"**Question 11**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+a. A person can always get better at math.",i18704.e11.r0,select_table,40
+37,18704,1695,Question 11,en,"**Question 11**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+b. Only smart people can be good at math.",i18704.e11.r1,select_table,40
+37,18704,1695,Question 11,en,"**Question 11**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+c. Almost everyone can understand math if they work at it.",i18704.e11.r2,select_table,40
+37,18704,1695,Question 11,fr,"**Question 11**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Une personne peut toujours s’améliorer en mathématiques.",i18704.e28.r0,select_table,40
+37,18704,1695,Question 11,fr,"**Question 11**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Seules les personnes intelligentes peuvent être bonnes en mathématiques.",i18704.e28.r1,select_table,40
+37,18704,1695,Question 11,fr,"**Question 11**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Presque tout le monde peut comprendre les mathématiques s’il fait des efforts.",i18704.e28.r2,select_table,40
+37,18705,1695,Question 12,en,"**Question 12**
+
+Do you agree with each of the following?
+
+","
+a. I keep trying if I make a mistake or if something is difficult.",i18705.e11.r0,select_table,40
+37,18705,1695,Question 12,en,"**Question 12**
+
+Do you agree with each of the following?
+
+","
+b. When I get feedback on my school work, I find ways to improve.",i18705.e11.r1,select_table,40
+37,18705,1695,Question 12,en,"**Question 12**
+
+Do you agree with each of the following?
+
+","
+c. I stay on task without reminders from my teacher.",i18705.e11.r2,select_table,40
+37,18705,1695,Question 12,en,"**Question 12**
+
+Do you agree with each of the following?
+
+","
+d. Doing my best at school is important to me.",i18705.e11.r3,select_table,40
+37,18705,1695,Question 12,fr,"**Question 12**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Je continue d’essayer si je fais une erreur ou si quelque chose est difficile.",i18705.e28.r0,select_table,40
+37,18705,1695,Question 12,fr,"**Question 12**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Quand je reçois de la rétroaction sur mon travail, je trouve des moyens de m’améliorer.",i18705.e28.r1,select_table,40
+37,18705,1695,Question 12,fr,"**Question 12**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Je reste concentré sans avoir besoin de rappels de la part de mon enseignante ou enseignant.",i18705.e28.r2,select_table,40
+37,18705,1695,Question 12,fr,"**Question 12**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. Faire de mon mieux à l’école est important pour moi.",i18705.e28.r3,select_table,40
+37,18710,1695,Question 13,en,"**Question 13**
+
+Do you agree with each of the following?
+
+","
+a. I work well in a group with other students.",i18710.e11.r0,select_table,40
+37,18710,1695,Question 13,en,"**Question 13**
+
+Do you agree with each of the following?
+
+","
+b. Learning in groups is a good way to learn.",i18710.e11.r1,select_table,40
+37,18710,1695,Question 13,en,"**Question 13**
+
+Do you agree with each of the following?
+
+","
+c. I often think about how others might feel when working in a group.",i18710.e11.r2,select_table,40
+37,18710,1695,Question 13,en,"**Question 13**
+
+Do you agree with each of the following?
+
+","
+d. I often listen to what others have to say when working in a group.",i18710.e11.r3,select_table,40
+37,18710,1695,Question 13,fr,"**Question 13**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Je travaille bien en groupe avec d’autres élèves.",i18710.e28.r0,select_table,40
+37,18710,1695,Question 13,fr,"**Question 13**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Apprendre en groupe est une bonne façon d’apprendre.",i18710.e28.r1,select_table,40
+37,18710,1695,Question 13,fr,"**Question 13**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Je pense souvent à comment les autres se sentent quand je travaille en groupe.",i18710.e28.r2,select_table,40
+37,18710,1695,Question 13,fr,"**Question 13**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. J’écoute souvent ce que les autres ont à dire quand je travaille en groupe.",i18710.e28.r3,select_table,40
+37,18711,1695,Question 14,en,"**Question 14**
+
+Please tell us how you feel about the online assessment you just wrote. Do you agree with each of the following?
+
+","
+a. The sample test helped prepare me for this assessment.",i18711.e11.r0,select_table,40
+37,18711,1695,Question 14,en,"**Question 14**
+
+Please tell us how you feel about the online assessment you just wrote. Do you agree with each of the following?
+
+","
+b. I liked the design of the assessment.",i18711.e11.r1,select_table,40
+37,18711,1695,Question 14,en,"**Question 14**
+
+Please tell us how you feel about the online assessment you just wrote. Do you agree with each of the following?
+
+","
+c. I could go from question to question easily.",i18711.e11.r2,select_table,40
+37,18711,1695,Question 14,en,"**Question 14**
+
+Please tell us how you feel about the online assessment you just wrote. Do you agree with each of the following?
+
+","
+d. The different kinds of questions (drop-down, drag and drop, checklist) were easy to use.",i18711.e11.r3,select_table,40
+37,18711,1695,Question 14,fr,"**Question 14**
+
+Dis-nous ce que tu penses du test en ligne que tu viens de faire. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. L’exemple de test m’a aidé à me préparer pour ce test.",i18711.e28.r0,select_table,40
+37,18711,1695,Question 14,fr,"**Question 14**
+
+Dis-nous ce que tu penses du test en ligne que tu viens de faire. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. J’ai aimé la conception du test.",i18711.e28.r1,select_table,40
+37,18711,1695,Question 14,fr,"**Question 14**
+
+Dis-nous ce que tu penses du test en ligne que tu viens de faire. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Je pouvais facilement passer d’une question à l’autre.",i18711.e28.r2,select_table,40
+37,18711,1695,Question 14,fr,"**Question 14**
+
+Dis-nous ce que tu penses du test en ligne que tu viens de faire. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. Les différents types de questions (menu déroulant, glisser-déposer, liste de contrôle) étaient faciles à utiliser.",i18711.e28.r3,select_table,40
+37,18712,1695,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",a. Help menu  ,i18712.e11.r0,select_table,40
+37,18712,1695,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",b. Listen ,i18712.e11.r1,select_table,40
+37,18712,1695,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",c. Zoom in/out  ,i18712.e11.r2,select_table,40
+37,18712,1695,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",d. Line reader  ,i18712.e11.r3,select_table,40
+37,18712,1695,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",e. High contrast  ,i18712.e11.r4,select_table,40
+37,18712,1695,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+","f. Drawing tools (for example, highlighter and eraser) ",i18712.e11.r5,select_table,40
+37,18712,1695,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",g. Calculator  ,i18712.e11.r6,select_table,40
+37,18712,1695,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",h. Calm breathing exercise  ,i18712.e11.r7,select_table,40
+37,18712,1695,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+","i. Hyperlinks (for example, a link you click that takes you to a particular place in a text)  ",i18712.e11.r8,select_table,40
+37,18712,1695,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",a. Page d’aide  ,i18712.e28.r0,select_table,40
+37,18712,1695,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",b. Écouter  ,i18712.e28.r1,select_table,40
+37,18712,1695,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+","c. Agrandir/Réduire  
+",i18712.e28.r2,select_table,40
+37,18712,1695,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",d. Lecture ligne par ligne  ,i18712.e28.r3,select_table,40
+37,18712,1695,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",e. Mode à contraste élevé  ,i18712.e28.r4,select_table,40
+37,18712,1695,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+","f. Outils d’annotation
+(p. ex. surligneur, gomme à effacer)  
+",i18712.e28.r5,select_table,40
+37,18712,1695,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",g. Calculatrice  ,i18712.e28.r6,select_table,40
+37,18712,1695,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",h. Exercices de respiration   ,i18712.e28.r7,select_table,40
+37,18712,1695,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",i. Hyperliens (p. ex. un lien cliquable qui te mène à un endroit particulier dans un texte)  ,i18712.e28.r8,select_table,40
+37,18714,1695,Question 16,en,"**Question 16**
+
+Please tell us how comfortable you felt about this assessment, before and after taking it.
+
+","
+a. Before I started this assessment, I felt",i18714.e11.r0,select_table,40
+37,18714,1695,Question 16,en,"**Question 16**
+
+Please tell us how comfortable you felt about this assessment, before and after taking it.
+
+","
+b. After I finished this assessment, I felt",i18714.e11.r1,select_table,40
+37,18714,1695,Question 16,fr,"**Question 16**
+
+Dis-nous dans quelle mesure tu t’es senti à l’aise par rapport à ce test, avant et après l’avoir fait.
+
+","
+a. Avant de commencer ce test, je me sentais",i18714.e28.r0,select_table,40
+37,18714,1695,Question 16,fr,"**Question 16**
+
+Dis-nous dans quelle mesure tu t’es senti à l’aise par rapport à ce test, avant et après l’avoir fait.
+
+","
+b. Après avoir terminé ce test, je me suis senti",i18714.e28.r1,select_table,40
+37,18715,1695,Question 17,en,"**Question 17**
+
+Please tell us how easy or difficult you found the assessment.
+
+","
+a. To me, the mathematics part of the assessment was",i18715.e11.r0,select_table,40
+37,18715,1695,Question 17,en,"**Question 17**
+
+Please tell us how easy or difficult you found the assessment.
+
+","
+b. To me, the reading part of the assessment was",i18715.e11.r1,select_table,40
+37,18715,1695,Question 17,en,"**Question 17**
+
+Please tell us how easy or difficult you found the assessment.
+
+","
+c. To me, the writing part of the assessment was",i18715.e11.r2,select_table,40
+37,18715,1695,Question 17,fr,"**Question 17**
+
+Dis-nous dans quelle mesure tu as trouvé le test facile ou difficile.
+
+","
+a. Pour moi, la composante Mathématiques du test était",i18715.e28.r0,select_table,40
+37,18715,1695,Question 17,fr,"**Question 17**
+
+Dis-nous dans quelle mesure tu as trouvé le test facile ou difficile.
+
+","
+b. Pour moi, la partie Lecture du test était",i18715.e28.r1,select_table,40
+37,18715,1695,Question 17,fr,"**Question 17**
+
+Dis-nous dans quelle mesure tu as trouvé le test facile ou difficile.
+
+","
+c. Pour moi, la partie Écriture du test était",i18715.e28.r2,select_table,40
+37,18755,1772,Question 11,en,"**Question 11**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+a. A person can always get better at math.",i18755.e11.r0,select_table,40
+37,18755,1772,Question 11,en,"**Question 11**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+b. Only smart people can be good at math.",i18755.e11.r1,select_table,40
+37,18755,1772,Question 11,en,"**Question 11**
+
+Please tell us how you feel about math. Do you agree with each of the following?
+
+","
+c. Almost everyone can understand math if they work at it.",i18755.e11.r2,select_table,40
+37,18755,1772,Question 11,fr,"**Question 11**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Une personne peut toujours s’améliorer en mathématiques.",i18755.e28.r0,select_table,40
+37,18755,1772,Question 11,fr,"**Question 11**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Seules les personnes intelligentes peuvent être bonnes en mathématiques.",i18755.e28.r1,select_table,40
+37,18755,1772,Question 11,fr,"**Question 11**
+
+Dis-nous ce que tu penses des mathématiques. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Presque tout le monde peut comprendre les mathématiques s’il fait des efforts.",i18755.e28.r2,select_table,40
+37,18756,1772,Question 12,en,"**Question 12**
+
+Do you agree with each of the following?
+
+","
+a. I keep trying if I make a mistake or if something is difficult.",i18756.e11.r0,select_table,40
+37,18756,1772,Question 12,en,"**Question 12**
+
+Do you agree with each of the following?
+
+","
+b. When I get feedback on my school work, I find ways to improve.",i18756.e11.r1,select_table,40
+37,18756,1772,Question 12,en,"**Question 12**
+
+Do you agree with each of the following?
+
+","
+c. I stay on task without reminders from my teacher.",i18756.e11.r2,select_table,40
+37,18756,1772,Question 12,en,"**Question 12**
+
+Do you agree with each of the following?
+
+","
+d. Doing my best at school is important to me.",i18756.e11.r3,select_table,40
+37,18756,1772,Question 12,fr,"**Question 12**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Je continue d’essayer si je fais une erreur ou si quelque chose est difficile.",i18756.e28.r0,select_table,40
+37,18756,1772,Question 12,fr,"**Question 12**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Quand je reçois de la rétroaction sur mon travail, je trouve des moyens de m’améliorer.",i18756.e28.r1,select_table,40
+37,18756,1772,Question 12,fr,"**Question 12**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Je reste concentré sans avoir besoin de rappels de la part de mon enseignante ou enseignant.",i18756.e28.r2,select_table,40
+37,18756,1772,Question 12,fr,"**Question 12**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. Faire de mon mieux à l’école est important pour moi.",i18756.e28.r3,select_table,40
+37,18757,1772,Question 13,en,"**Question 13**
+
+Do you agree with each of the following?
+
+","
+a. I work well in a group with other students.",i18757.e11.r0,select_table,40
+37,18757,1772,Question 13,en,"**Question 13**
+
+Do you agree with each of the following?
+
+","
+b. Learning in groups is a good way to learn.",i18757.e11.r1,select_table,40
+37,18757,1772,Question 13,en,"**Question 13**
+
+Do you agree with each of the following?
+
+","
+c. I often think about how others might feel when working in a group.",i18757.e11.r2,select_table,40
+37,18757,1772,Question 13,en,"**Question 13**
+
+Do you agree with each of the following?
+
+","
+d. I often listen to what others have to say when working in a group.",i18757.e11.r3,select_table,40
+37,18757,1772,Question 13,fr,"**Question 13**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. Je travaille bien en groupe avec d’autres élèves.",i18757.e28.r0,select_table,40
+37,18757,1772,Question 13,fr,"**Question 13**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. Apprendre en groupe est une bonne façon d’apprendre.",i18757.e28.r1,select_table,40
+37,18757,1772,Question 13,fr,"**Question 13**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Je pense souvent à comment les autres se sentent quand je travaille en groupe.",i18757.e28.r2,select_table,40
+37,18757,1772,Question 13,fr,"**Question 13**
+
+Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. J’écoute souvent ce que les autres ont à dire quand je travaille en groupe.",i18757.e28.r3,select_table,40
+37,18758,1772,Question 14,en,"**Question 14**
+
+Please tell us how you feel about the online assessment you just wrote. Do you agree with each of the following?
+
+","
+a. The sample test helped prepare me for this assessment.",i18758.e11.r0,select_table,40
+37,18758,1772,Question 14,en,"**Question 14**
+
+Please tell us how you feel about the online assessment you just wrote. Do you agree with each of the following?
+
+","
+b. I liked the design of the assessment.",i18758.e11.r1,select_table,40
+37,18758,1772,Question 14,en,"**Question 14**
+
+Please tell us how you feel about the online assessment you just wrote. Do you agree with each of the following?
+
+","
+c. I could go from question to question easily.",i18758.e11.r2,select_table,40
+37,18758,1772,Question 14,en,"**Question 14**
+
+Please tell us how you feel about the online assessment you just wrote. Do you agree with each of the following?
+
+","
+d. The different kinds of questions (drop-down, drag and drop, checklist) were easy to use.",i18758.e11.r3,select_table,40
+37,18758,1772,Question 14,fr,"**Question 14**
+
+Dis-nous ce que tu penses du test en ligne que tu viens de faire. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+a. L’exemple de test m’a aidé à me préparer pour ce test.",i18758.e28.r0,select_table,40
+37,18758,1772,Question 14,fr,"**Question 14**
+
+Dis-nous ce que tu penses du test en ligne que tu viens de faire. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+b. J’ai aimé la conception du test.",i18758.e28.r1,select_table,40
+37,18758,1772,Question 14,fr,"**Question 14**
+
+Dis-nous ce que tu penses du test en ligne que tu viens de faire. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+c. Je pouvais facilement passer d’une question à l’autre.",i18758.e28.r2,select_table,40
+37,18758,1772,Question 14,fr,"**Question 14**
+
+Dis-nous ce que tu penses du test en ligne que tu viens de faire. Es-tu d’accord avec chacun des énoncés suivants?
+
+","
+d. Les différents types de questions (menu déroulant, glisser-déposer, liste de contrôle) étaient faciles à utiliser.",i18758.e28.r3,select_table,40
+37,18759,1772,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",a. Help menu  ,i18759.e11.r0,select_table,40
+37,18759,1772,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",b. Listen  ,i18759.e11.r1,select_table,40
+37,18759,1772,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+","k. Hyperlinks (for example, a link you click that takes you to a particular place in a text)  ",i18759.e11.r10,select_table,40
+37,18759,1772,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",c. Zoom in/out  ,i18759.e11.r2,select_table,40
+37,18759,1772,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",d. Line reader  ,i18759.e11.r3,select_table,40
+37,18759,1772,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",e. High contrast  ,i18759.e11.r4,select_table,40
+37,18759,1772,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+","f. Drawing tools (for example, highlighter and eraser)  ",i18759.e11.r5,select_table,40
+37,18759,1772,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",g. Calculator  ,i18759.e11.r6,select_table,40
+37,18759,1772,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",h. Rough notes  ,i18759.e11.r7,select_table,40
+37,18759,1772,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",i. Documents (formula sheet and glossaries) ,i18759.e11.r8,select_table,40
+37,18759,1772,Question 15,en,"**Question 15**
+
+Did you find the following features of the online assessment useful?
+
+",j. Calm breathing exercise  ,i18759.e11.r9,select_table,40
+37,18759,1772,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",a. Page d’aide  ,i18759.e28.r0,select_table,40
+37,18759,1772,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",b. Écouter  ,i18759.e28.r1,select_table,40
+37,18759,1772,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",k. Hyperliens (p. ex. un lien cliquable qui te mène à un endroit particulier dans un texte)  ,i18759.e28.r10,select_table,40
+37,18759,1772,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+","c. Agrandir/Réduire
+",i18759.e28.r2,select_table,40
+37,18759,1772,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",d. Lecture ligne par ligne  ,i18759.e28.r3,select_table,40
+37,18759,1772,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",e. Mode à contraste élevé  ,i18759.e28.r4,select_table,40
+37,18759,1772,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+","f. Outils d’annotation
+(p. ex. surligneur, gomme à effacer)
+",i18759.e28.r5,select_table,40
+37,18759,1772,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",g. Calculatrice  ,i18759.e28.r6,select_table,40
+37,18759,1772,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",h. Bloc-notes  ,i18759.e28.r7,select_table,40
+37,18759,1772,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",i. Documents (feuille de formules et glossaires)  ,i18759.e28.r8,select_table,40
+37,18759,1772,Question 15,fr,"**Question 15**
+
+As-tu trouvé utiles les fonctionnalités suivantes du test en ligne? 
+
+",j. Exercices de respiration  ,i18759.e28.r9,select_table,40
+37,18760,1772,Question 16,en,"**Question 16**
+
+Please tell us how comfortable you felt about this assessment, before and after taking it.
+
+","
+a. Before I started this assessment, I felt",i18760.e11.r0,select_table,40
+37,18760,1772,Question 16,en,"**Question 16**
+
+Please tell us how comfortable you felt about this assessment, before and after taking it.
+
+","
+b. After I finished this assessment, I felt",i18760.e11.r1,select_table,40
+37,18760,1772,Question 16,fr,"**Question 16**
+
+Dis-nous dans quelle mesure tu t’es senti à l’aise par rapport à ce test, avant et après l’avoir fait.
+
+","
+a. Avant de commencer ce test, je me sentais",i18760.e28.r0,select_table,40
+37,18760,1772,Question 16,fr,"**Question 16**
+
+Dis-nous dans quelle mesure tu t’es senti à l’aise par rapport à ce test, avant et après l’avoir fait.
+
+","
+b. Après avoir terminé ce test, je me suis senti",i18760.e28.r1,select_table,40
+37,18761,1772,Question 17,en,"**Question 17**
+
+Please tell us how easy or difficult you found the assessment.
+
+","
+a. To me, the mathematics part of the assessment was",i18761.e11.r0,select_table,40
+37,18761,1772,Question 17,en,"**Question 17**
+
+Please tell us how easy or difficult you found the assessment.
+
+","
+b. To me, the reading part of the assessment was",i18761.e11.r1,select_table,40
+37,18761,1772,Question 17,en,"**Question 17**
+
+Please tell us how easy or difficult you found the assessment.
+
+","
+c. To me, the writing part of the assessment was",i18761.e11.r2,select_table,40
+37,18761,1772,Question 17,fr,"**Question 17**
+
+Dis-nous dans quelle mesure tu as trouvé le test facile ou difficile.
+
+","
+a. Pour moi, la composante Mathématiques du test était",i18761.e28.r0,select_table,40
+37,18761,1772,Question 17,fr,"**Question 17**
+
+Dis-nous dans quelle mesure tu as trouvé le test facile ou difficile.
+
+","
+b. Pour moi, la partie Lecture du test était",i18761.e28.r1,select_table,40
+37,18761,1772,Question 17,fr,"**Question 17**
+
+Dis-nous dans quelle mesure tu as trouvé le test facile ou difficile.
+
+","
+c. Pour moi, la partie Écriture du test était",i18761.e28.r2,select_table,40
